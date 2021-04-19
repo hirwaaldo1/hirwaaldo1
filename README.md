@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 💞️  I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Music (Woo)
 - 📫 How to reach me hirwaaldo1@gmail.com
 
 ### Connect With me :

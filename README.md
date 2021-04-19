@@ -12,9 +12,9 @@
 
 ### Connect With me :
 
-[<img align="left" alt="Hirwa Aldo | Instagram" width="22px" src="https://www.instagram.com/aldo_hirwa/" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">]
-[<img align="left" alt="Hirwa Aldo | Facebook" width="22px" src="https://www.facebook.com/hirwa.aldo" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">]
-[<img align="left" alt="Hirwa Aldo | Gmail" width="22px" src="https://mail.google.com/mail/u/0/#search/hirwaaldo1%40gmail.com" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;">]
+<img align="left" alt="Hirwa Aldo | Instagram" width="22px" src="https://www.instagram.com/aldo_hirwa/" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
+<img align="left" alt="Hirwa Aldo | Facebook" width="22px" src="https://www.facebook.com/hirwa.aldo" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">
+<img align="left" alt="Hirwa Aldo | Gmail" width="22px" src="https://mail.google.com/mail/u/0/#search/hirwaaldo1%40gmail.com" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;">
 
 <br />
 

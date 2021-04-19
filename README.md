@@ -34,14 +34,5 @@ Phone: 0789798648
 <br />
 <br />
 -----
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://camo.githubusercontent.com/251a57b9f1c7f7be620da59d619d08f68ac604a3e48f23c080340e91ff921019/68747470733a2f2f6769746875622d726561646d652d73746174732e636f6465737461636b722e76657263656c2e6170702f6170693f757365726e616d653d636f6465535441434b722673686f775f69636f6e733d7472756526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.codestackr.vercel.app/api?username=hirwaaldo1&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
------
-### Lastest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+
 

@@ -11,8 +11,9 @@
 - 📫 How to reach me hirwaaldo1@gmail.com
 
 ### Connect With me :
-Gmail:hirwaaldo1@gmail.com
-phone:0789798648
+Gmail: hirwaaldo1@gmail.com
+<br />
+Phone: 0789798648
 <br />
 
 ### Languages and Tools :

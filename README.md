@@ -6,7 +6,7 @@
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning everything 🤣
 - 💞️  I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me hirwaaldo1@gmail.com
 
 ### Connect With me :

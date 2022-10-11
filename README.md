@@ -4,7 +4,7 @@
 ### I'am Developer ! 
 - 👋 Hi, I’m Hirwa Aldo
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently working everything 🤣
+- 🌱 I’m currently working on everything 🤣
 - 💞️  I’m looking to collaborate with other full stack developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me hirwaaldo1@gmail.com

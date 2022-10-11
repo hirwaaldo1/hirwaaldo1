@@ -1,7 +1,7 @@
 
 ### Hi there , I'am Aldo
 
-### I'am Teenage , Developer ! 
+### I'am Developer ! 
 - 👋 Hi, I’m Hirwa Aldo
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning everything 🤣

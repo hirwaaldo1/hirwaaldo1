@@ -6,7 +6,7 @@
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently working on everything 🤣
 - 💞️  I’m looking to collaborate with other full stack developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 📫 How to reach me hirwaaldo1@gmail.com
 
 ### Connect With me :

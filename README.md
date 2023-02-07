@@ -2,13 +2,13 @@
 ### Hi there , I'am Aldo
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-- 👀 I’m interested in Web and App development
+I am passionate about Web and App development and continuously expanding my skillset. I am seeking collaboration with other full-stack developers and have a goal for 2023 to contribute more to Open Source projects. You can reach me at [hirwaaldo1@gmail.com](mailto:hirwaaldo1@gmail.com) and feel free to review my [Résumé](https://www.hirwaaldo1/resume.pdf) for further information about me. I am open to receiving feedback and suggestions.
+<!-- - 👀 I’m interested in Web and App development
 - 🌱 I’m currently working on everything 🤣
 - 💞️ I’m looking to collaborate with other full stack developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 📫 How to reach me [hirwaaldo1@gmail.com](mailto:hirwaaldo1@gmail.com)
-- 📄 &nbsp;Please have a look at my [Résumé](https://www.hirwaaldo1/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé](https://www.hirwaaldo1/resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
  -->
@@ -33,7 +33,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/hirwaaldo1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirwaaldo1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirwaaldo1&layout=compact&langs_count=8&theme=algolia"/>
@@ -42,7 +42,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.hirwaaldo.dev"><img src="https://img.shields.io/badge/-hirwaaldo.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aldo-hirwa/"><img src="https://img.shields.io/badge/-HirwaAldo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hirwaaldo1@gmail.com"><img src="https://img.shields.io/badge/-hirwaaldo1gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>

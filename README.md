@@ -43,7 +43,7 @@ I am passionate  about Web and App development and continuously expanding my ski
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.hirwaaldo.dev"><img src="https://img.shields.io/badge/-hirwaaldo.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.hirwaaldo.com"><img src="https://img.shields.io/badge/-hirwaaldo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aldo-hirwa/"><img src="https://img.shields.io/badge/-HirwaAldo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hirwaaldo1@gmail.com"><img src="https://img.shields.io/badge/-hirwaaldo1gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aldo_hirwa"><img src="https://img.shields.io/badge/-@HirwaAldo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

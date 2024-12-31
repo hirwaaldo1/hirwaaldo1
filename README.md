@@ -2,11 +2,11 @@
 ### Hi there , I'am Aldo
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am passionate  about Web and App development and continuously expanding my skillset 🌱. I am seeking collaboration with other full-stack developers and have a goal for 2024 to contribute more to Open Source projects 🤝🏻. You can reach me at [hirwaaldo1@gmail.com](mailto:hirwaaldo1@gmail.com) 📫 and feel free to review my [Résumé](https://www.hirwaaldo.com/assets/resume.pdf) for further information about me. I am open to receiving feedback and suggestions.
+I am passionate  about Web and App development and continuously expanding my skillset 🌱. I am seeking collaboration with other full-stack developers and have a goal for 2025 to contribute more to Open Source projects 🤝🏻. You can reach me at [hirwaaldo1@gmail.com](mailto:hirwaaldo1@gmail.com) 📫 and feel free to review my [Résumé](https://www.hirwaaldo.com/assets/resume.pdf) for further information about me. I am open to receiving feedback and suggestions.
 <!-- - 👀 I’m interested in Web and App development
 - 🌱 I’m currently working on everything 🤣
 - 💞️ I’m looking to collaborate with other full stack developers.
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - 📫 How to reach me [hirwaaldo1@gmail.com](mailto:hirwaaldo1@gmail.com)
 - 📄 &nbsp;Please have a look at my [Résumé](https://www.hirwaaldo1/resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
